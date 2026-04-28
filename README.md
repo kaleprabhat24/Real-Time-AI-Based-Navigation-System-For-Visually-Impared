@@ -18,7 +18,9 @@ This project is a Deep Learning-based real-time vision assistant that uses a cus
 cd Final_model
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 🌐 Deployment
 
 This project is deployed using Streamlit Cloud for public access.
+
+https://ai-blind-navigation-system-8palztmei76tgjtubdhesa.streamlit.app/
